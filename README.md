@@ -1,2 +1,4 @@
-# Ola Mundo
-reopsitório teste git e github
+# Olá, Mundo!
+reositório teste git e github
+
+repositório teste da aula guanabara
